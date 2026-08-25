@@ -31,6 +31,7 @@ AI Engineering • LLM Applications • RAG • AI Agents • Data Engineering
 To grow into an AI Engineer who understands not just how to use AI tools, but how to build, connect and deploy useful AI-powered systems.
 
 I'm especially interested in the intersection of:
+
 Data × AI × Engineering
 
 Let's Connect
