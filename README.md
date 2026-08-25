@@ -15,27 +15,31 @@ Development: REST APIs, Streamlit, Git & GitHub
 
 🔎 Fact-Check Agent
 AI-powered agent that extracts claims from PDFs, searches the web, and verifies them using Gemini.
+
 📊 Wealth Management Data Platform
 Built data pipelines, analytical data marts, and business metrics using Databricks, PySpark, and SQL.
+
 🌐 SkillVerse
 Web-based project built with HTML, CSS & JavaScript.
 
 🧠 Currently Learning
+
 AI Engineering • LLM Applications • RAG • AI Agents • Data Engineering
 
 🎯 Goal
+
 To grow into an AI Engineer who understands not just how to use AI tools, but how to build, connect and deploy useful AI-powered systems.
 
 I'm especially interested in the intersection of:
 Data × AI × Engineering
 
 Let's Connect
+
 I'm always interested in learning, building, collaborating and talking about technology.
 
 GitHub: @devopeish
 
 LinkedIn: www.linkedin.com/in/eisha-kashyap-eik
-
 
 Email: ishakashyap0029@gmail.com
 
