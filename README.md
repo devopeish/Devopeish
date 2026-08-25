@@ -1,4 +1,5 @@
-Hi, I'm Isha 👋
+Hi, I'm Isha
+
 Just a girl building her way into AI. 💻💜✨
 
 I'm a Computer Science graduate exploring AI Engineering, Generative AI, RAG, and Data. I learn by building, experimenting, breaking things, and figuring out how to fix them.
