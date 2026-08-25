@@ -14,13 +14,17 @@ Development: REST APIs, Streamlit, Git & GitHub
 ~ Things I've Built:
 
 🔎 Fact-Check Agent
+
 AI-powered agent that extracts claims from PDFs, searches the web, and verifies them using Gemini.
 
 📊 Wealth Management Data Platform
+
 Built data pipelines, analytical data marts, and business metrics using Databricks, PySpark, and SQL.
 
 🌐 SkillVerse
+
 Web-based project built with HTML, CSS & JavaScript.
+
 
 🧠 Currently Learning
 
@@ -33,6 +37,7 @@ To grow into an AI Engineer who understands not just how to use AI tools, but ho
 I'm especially interested in the intersection of:
 
 Data × AI × Engineering
+
 
 Let's Connect
 
