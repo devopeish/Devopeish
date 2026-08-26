@@ -7,7 +7,7 @@ I'm a Computer Science graduate exploring AI Engineering, Generative AI, RAG, an
 
 🛠️ Tech I Work With
 
-Languages: Python, SQL, Java, C, HTML, CSS, JavaScript, Node.js
+Languages: Python, SQL, C, HTML, CSS, JavaScript, Node.js
 
 AI & GenAI: LLMs, RAG, AI Agents, Gemini, Ollama, ChromaDB, Embeddings
 
